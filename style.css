@@ -60,6 +60,10 @@ a:focus-visible{
     display:flex;
     align-items: center;
     flex-direction: column;
+    justify-content: center;
+    gap: 16px; 
+    background-color: var(--cor-fundo-suave);
+    height: 60vh
 }
 
 
